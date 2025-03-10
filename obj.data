@@ -1,0 +1,7 @@
+classes= 1
+train  = /content/drive/MyDrive/Yolo/train.txt
+valid = /content/drive/MyDrive/Yolo/valid.txt
+test = /content/drive/MyDrive/Yolo/test.txt
+names = /content/drive/MyDrive/Yolo/obj.names
+backup = /content/drive/MyDrive/Yolo/Backup/
+
