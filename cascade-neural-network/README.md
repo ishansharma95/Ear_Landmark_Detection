@@ -17,20 +17,20 @@ The original data used for this project can be found at [source](https://ibug.do
 ### Example Input and Output
 
 #### Input
-![right ear](/images/test_11.png)
+![test_11](https://github.com/user-attachments/assets/169f1f3a-f4ed-4ad6-89d8-302f2aadaed3)
 
 #### Output
-![right ear w/landmarks](/images/result_11.png)
+![result_11](https://github.com/user-attachments/assets/591fed83-e3bc-4c46-8b88-86b80375a587)
 
 #### Input
-![left ear](/images/test_198.png)
+![test_198](https://github.com/user-attachments/assets/2a15aad4-edef-4412-9c67-fae6b4297b37)
 
 #### Output
-![left ear w/landmarks](/images/result_198.png)
+![result_198](https://github.com/user-attachments/assets/ef9caa9b-f8cd-4b63-8e89-b9f99a7f6bd4)
 
 ## Model Architecture
 
-![Model Architecture](/images/modelarch.jpg)
+![modelarch](https://github.com/user-attachments/assets/e269fecf-0327-4050-9877-1cf2d4f2765b)
 
 ## Getting Started
 
