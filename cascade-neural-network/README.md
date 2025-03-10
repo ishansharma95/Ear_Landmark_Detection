@@ -54,4 +54,4 @@ Contributions and feedback are welcome. Feel free to submit issues if you encoun
 
 ---
 
-*This repository is maintained by [Your Name].*
+*This repository is maintained by Ishan Sharma.*
