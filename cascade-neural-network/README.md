@@ -11,8 +11,10 @@ The original data used for this project can be found at [source](https://ibug.do
 ## Model Overview
 
 - **Input:** The model takes 224x224 pixel images of ears as input.
+![01](https://github.com/user-attachments/assets/a02e8a36-3bfa-47c7-8363-50f2d4777677)
 
 - **Output:** It predicts the landmark points on the ear.
+![01_Pred](https://github.com/user-attachments/assets/7e04d99a-0834-444b-af45-18942ea20a1b)
 
 
 
